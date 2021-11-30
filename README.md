@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheUditGarg
-- 👀 I’m interested in Robotics and Ethical Hacking
-- 🌱 I’m currently learning Both Ethical Hacking and Robotics
+- 👀 I’m interested in Robotics Engineering, Coding like - Java, Python, Front End Development and Ethical Hacking!
+- 🌱 I’m currently learning Robotics Engineering
 - 💞️ I’m looking to collaborate on No One right now
 - 📫 How to reach me jainu2007@gmail.com
 
